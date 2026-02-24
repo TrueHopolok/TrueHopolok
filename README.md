@@ -16,22 +16,22 @@
 <div>
   <h4>Languages</h4>
   <img alt="golang badge" src="https://img.shields.io/badge/Golang--%2300ADD8?logo=go">
-  <img alt="cpp badge" src="https://img.shields.io/badge/C%2B%2B--%2300599C?logo=cplusplus">
-  <img alt="c badge" src="https://img.shields.io/badge/C--%23A8B9CC?logo=c">
-  <img alt="python badge" src="https://img.shields.io/badge/Python--%233776AB?logo=python">
+  <img alt="cpp badge" src="https://img.shields.io/badge/C%2B%2B--%234287f5?logo=cplusplus&logoColor=%234287f5">
+  <img alt="c badge" src="https://img.shields.io/badge/C--%23db391d?logo=c&logoColor=%23db391d">
+  <img alt="python badge" src="https://img.shields.io/badge/Python--%23ffef40?logo=python&logoColor=%23ffef40">
   <img alt="php badge" src="https://img.shields.io/badge/PHP--%23777BB4?logo=php">
   <img alt="js badge" src="https://img.shields.io/badge/Javascript--%23F7DF1E?logo=javascript">
   <h4>Tools, libraries, frameworks</h4>
   <img alt="godot Badge" src="https://img.shields.io/badge/Godot--%23478CBF?logo=godotengine">
   <img alt="laravel badge" src="https://img.shields.io/badge/Laravel--%23FF2D20?logo=laravel">
-  <img alt="arduino badge" src="https://img.shields.io/badge/Arduino--%2300878F?logo=arduino">
+  <img alt="arduino badge" src="https://img.shields.io/badge/Arduino--%2300878F?logo=arduino&logoColor=%2300878F">
   <img alt="git badge" src="https://img.shields.io/badge/Git--%23F05032?logo=git">
   <h4>Databases</h4>
   <img alt="mysql badge" src="https://img.shields.io/badge/MySQL--%234479A1?logo=mysql">
-  <img alt="sqlite dadge" src="https://img.shields.io/badge/SQLite--%23003B57?logo=sqlite">
+  <img alt="sqlite dadge" src="https://img.shields.io/badge/SQLite--%23003B57?logo=sqlite&logoColor=%23003B57">
   <h4>OS</h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Windows--red?logo=windows">
-  <img alt="linux badge" src="https://img.shields.io/badge/Linux--%23FCC624?logo=linux">
+  <img alt="linux badge" src="https://img.shields.io/badge/Linux--%23FCC624?logo=linux&logoColor=white">
 </div>
 <br>
 <h2>Github Stats</h2>
