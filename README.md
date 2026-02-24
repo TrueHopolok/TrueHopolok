@@ -37,5 +37,5 @@
 <h2>Github Stats</h2>
 <div>
   <img alt="all stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrueHopolok&theme=dark">
-  <img alt="streak stats" src="https://streak-stats.demolab.com?user=TrueHopolok&theme=dark">
+  <img alt="streak stats" src="https://streak-stats.demolab.com?user=TrueHopolok&theme=dark&hide_border=true&card_width=700">
 </div>
